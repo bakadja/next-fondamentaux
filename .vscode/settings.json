@@ -9,5 +9,16 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cSpell.words": [
+    "ajouter",
+    "avec",
+    "bouton",
+    "composant",
+    "développeur",
+    "l'élément",
+    "l'exercice",
+    "peux",
+    "regarder"
+  ]
 }
