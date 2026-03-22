@@ -1,4 +1,4 @@
-//"use client"
+"use client"
 const Page = () => {
   // 🐶 Détermine dans quel environnement s'exécute ce composant grâce à un log
   console.log("Je suis un développeur FullStack Next")
@@ -7,7 +7,7 @@ const Page = () => {
 
   // 🐶 N'oublie pas de faire les exercices bonus
   return (
-    <div>
+    <div onClick={() => alert("hello")}>
       <p>Je suis un développeur FullStack Next</p>
     </div>
   )
