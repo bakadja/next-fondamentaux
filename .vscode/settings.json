@@ -9,5 +9,33 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "cSpell.words": [
+    "Ajoute",
+    "ajouter",
+    "allons",
+    "avec",
+    "avons",
+    "contiennent",
+    "créer",
+    "dans",
+    "Décommente",
+    "défaut",
+    "dessous",
+    "exercice",
+    "l'exercice",
+    "ligne",
+    "lignes",
+    "précédent",
+    "qu'elles",
+    "remplacer",
+    "repris",
+    "retournons",
+    "revient",
+    "seront",
+    "souhaites",
+    "suivants",
+    "Supprime",
+    "utiles"
+  ]
 }
